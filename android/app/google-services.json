@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498741678665",
+    "project_id": "yazitanima",
+    "storage_bucket": "yazitanima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498741678665:android:8ad2af58cd741d5d74e598",
+        "android_client_info": {
+          "package_name": "com.example.denemeler_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498741678665-t9tnghh0c91v8le6t3ii9n76koh695en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZjB7217knn7XG3JyFCdT9dFIbzwK_04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498741678665-t9tnghh0c91v8le6t3ii9n76koh695en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
